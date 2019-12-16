@@ -1,2 +1,1 @@
-# csb-template
-Created with CodeSandbox
+starter project
